@@ -1,0 +1,27 @@
+h1 {
+      color: rgb(0, 0, 194);
+    }
+    .example1 {
+  border: 2px solid;
+  padding: 10px;
+  border-radius: 25px;
+}
+h4 {
+  border-left: 5px solid gold ;
+  padding: 5px;
+}
+h4 {
+      color: rgb(0, 0, 194);
+    }
+        .gambar-bulat {
+      width: 150px; /* Atur lebar */
+      height: 150px; /* Atur tinggi yang sama dengan lebar */
+      border-radius: 50%; /* Membuat sudut melengkung sempurna */
+      object-fit: cover; /* Memastikan gambar mengisi area lingkaran */
+      display: block; /* Pastikan elemen gambar mengambil ruang */
+    }
+        .container {
+      width: 80%; /* atau nilai lebar tetap seperti 960px */
+      margin: 0 auto; /* Memusatkan kontainer secara horizontal */
+      padding: 20px; /* Opsional untuk memberi ruang di dalam kontainer */
+    }
