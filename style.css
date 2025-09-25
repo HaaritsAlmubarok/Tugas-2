@@ -17,8 +17,8 @@ h4 {
       color: rgb(0, 0, 194);
     }
         .gambar-bulat {
-      width: 150px; /* Atur lebar */
-      height: 150px; /* Atur tinggi yang sama dengan lebar */
+      width: 180px; /* Atur lebar */
+      height: 180px; /* Atur tinggi yang sama dengan lebar */
       border-radius: 50%; /* Membuat sudut melengkung sempurna */
       object-fit: cover; /* Memastikan gambar mengisi area lingkaran */
       display: block; /* Pastikan elemen gambar mengambil ruang */
