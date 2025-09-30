@@ -4,16 +4,16 @@ h1 {
 }
 .example1 {
   border: 2px solid;
+  /* mengatur ketebalan border */
   padding: 10px;
   border-radius: 25px;
   /* border radius untuk megatur lengkung border */
 }
 h4 {
   border-left: 5px solid gold;
+  /* mengatur ketebalan border left */
   padding: 5px;
   font-size: 30px;
-}
-h4 {
   color: rgb(0, 0, 194);
 }
 .gambar-bulat {
